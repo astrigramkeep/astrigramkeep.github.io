@@ -8,12 +8,12 @@
     <language>jp</language>
     <lastBuildDate>Thu, 20 Jan 2022 14:45:54 -0500</lastBuildDate><atom:link href="https://astrigramkeep.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mypost</title>
+      <title>first post</title>
       <link>https://astrigramkeep.github.io/posts/mypost/</link>
       <pubDate>Thu, 20 Jan 2022 14:45:54 -0500</pubDate>
       
       <guid>https://astrigramkeep.github.io/posts/mypost/</guid>
-      <description>This is some comment</description>
+      <description>I had been following a video on how to create a blog with github pages and hugo. It wasn&amp;rsquo;t easy for me, yet here I am. Thank you for helping me getting through this. `</description>
     </item>
     
   </channel>
