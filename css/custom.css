@@ -1,9 +1,0 @@
-@font-face {
-  font-family: 'bookerly';
-  src:  
-       url('static/fonts/Bookerly.ttf')  format('truetype');
-}
-
-body {
-  font-family: 'bookerly', Fallback, sans-serif;
-}
