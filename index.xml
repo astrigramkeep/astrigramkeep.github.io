@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blogblog</title>
+    <title>N3ブログ</title>
     <link>https://astrigramkeep.github.io/</link>
-    <description>Recent content on blogblog</description>
+    <description>Recent content on N3ブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Thu, 20 Jan 2022 14:45:54 -0500</lastBuildDate><atom:link href="https://astrigramkeep.github.io/index.xml" rel="self" type="application/rss+xml" />
